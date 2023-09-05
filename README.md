@@ -3,6 +3,8 @@
 
 - CRA
 - TailwindCSS
+- Header
+- Login Form 
 
 # Features to be added
 - Login/Sign up Form 
